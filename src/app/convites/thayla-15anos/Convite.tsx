@@ -121,25 +121,13 @@ export default function ConviteThayla15Anos() {
 
                 <style jsx>{`
                   .swipe-text {
-                    font-size: 0.9rem;
+                    font-size: 0.8rem;
                     font-weight: 600;
                     background: rgba(255, 255, 255, 0.08);
                     padding: 6px 14px;
                     border-radius: 999px;
                     backdrop-filter: blur(6px);
                     animation: fadePulse 3s ease-in-out infinite;
-                  }
-
-                  .arrow-wrapper {
-                    position: relative;
-                    width: 60px;
-                    height: 60px;
-                  }
-
-                  .arrow {
-                    animation:
-                      moveRight 2s ease-in-out infinite,
-                      pulse 1.5s ease-in-out infinite;
                   }
 
                   @keyframes moveRight {
