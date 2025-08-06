@@ -177,7 +177,7 @@ export default function ConviteThayla15Anos() {
             {index === 1 && (
               <>
                 <a
-                  href="https://www.instagram.com/chacaraportalda/"
+                  href="https://maps.app.goo.gl/UTq65MpWmAp1Qyzk7?g_st=iw"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="absolute top-[55%] left-[16%] w-[30%] h-[20%] z-10"
